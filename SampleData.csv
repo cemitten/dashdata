@@ -1,0 +1,926 @@
+Location,GROUP_ID,Sample_Type,SAMPLE_DATE,Year,Coupon_Date_Install,Coupon_Date_Pulled,Days_Installed,Coupon_Number,MPY,Corr_Inhib_Residual_PPM,BA_SRB_Bottle_Turn,BA_APB_Bottle_Turn,Biocide Residual
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,3/25/2010,2010,3/25/2010,10/14/2010,203,G5408,0.09,,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Residual,3/25/2010,2010,,,,,,1,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Bacteria,3/25/2010,2010,,,,,,,2,1,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Biocide Residual,3/25/2010,2010,,,,,,,,,70
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,6/8/2010,2010,6/8/2010,10/26/2010,140,G5570,0.28,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,6/8/2010,2010,,,,,,20,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,6/8/2010,2010,,,,,,,2,1,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,6/8/2010,2010,,,,,,,,,5
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Coupon,6/8/2010,2010,6/8/2010,10/26/2010,140,G5569,0.42,,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Residual,6/8/2010,2010,,,,,,180,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Bacteria,6/8/2010,2010,,,,,,,2,1,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Biocide Residual,6/8/2010,2010,,,,,,,,,85
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Coupon,6/8/2010,2010,6/8/2010,10/26/2010,140,G5568,3.42,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Residual,6/8/2010,2010,,,,,,180,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Bacteria,6/8/2010,2010,,,,,,,3,1,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Biocide Residual,6/8/2010,2010,,,,,,,,,195
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Coupon,6/8/2010,2010,6/8/2010,10/26/2010,140,G5567,1.12,,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Bacteria,6/8/2010,2010,,,,,,,4,2,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,6/8/2010,2010,6/8/2010,10/26/2010,140,G5571,0.63,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,6/8/2010,2010,,,,,,5,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,6/8/2010,2010,,,,,,,1,1,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,6/8/2010,2010,,,,,,,,,1
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,6/29/2010,2010,6/29/2010,10/26/2010,119,G6199,0.35,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,6/29/2010,2010,,,,,,310,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,6/29/2010,2010,,,,,,,2,1,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,6/29/2010,2010,,,,,,,,,125
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,7/1/2010,2010,7/1/2010,10/26/2010,117,G6197,0.01,,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,10/14/2010,2010,10/14/2010,5/31/2011,229,G6103,0.01,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,10/26/2010,2010,10/26/2010,5/5/2011,191,G5993,0.02,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,10/26/2010,2010,,,,,,27,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,10/26/2010,2010,,,,,,,3,1,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,10/26/2010,2010,,,,,,,,,70
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Coupon,10/26/2010,2010,10/26/2010,5/5/2011,191,G6150,0.02,,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Residual,10/26/2010,2010,,,,,,25,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Bacteria,10/26/2010,2010,,,,,,,2,1,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Biocide Residual,10/26/2010,2010,,,,,,,,,105
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,10/26/2010,2010,10/26/2010,5/5/2011,191,G6142,0.01,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Coupon,10/26/2010,2010,10/26/2010,5/5/2011,191,G6148,0.04,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Residual,10/26/2010,2010,,,,,,20,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Bacteria,10/26/2010,2010,,,,,,,3,1,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Biocide Residual,10/26/2010,2010,,,,,,,,,30
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Coupon,10/26/2010,2010,10/26/2010,5/5/2011,191,G6149,0.04,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,10/26/2010,2010,10/26/2010,5/5/2011,191,G6146,0.04,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,10/26/2010,2010,,,,,,250,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,10/26/2010,2010,,,,,,,2,1,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,10/26/2010,2010,,,,,,,,,25
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,10/26/2010,2010,10/26/2010,5/5/2011,191,G5992,0.02,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,10/26/2010,2010,,,,,,5,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,10/26/2010,2010,,,,,,,1,1,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,10/26/2010,2010,,,,,,,,,50
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Corrosion Coupon,1/17/2011,2011,1/17/2011,4/12/2011,85,G5888,0.01,,,,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Bacteria,1/17/2011,2011,,,,,,,0,1,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Biocide Residual,1/17/2011,2011,,,,,,,,,460
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,4/12/2011,2011,11/4/2010,4/13/2011,160,D2326,0.03,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,4/12/2011,2011,,,,,,,2,1,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,4/12/2011,2011,11/4/2010,4/13/2011,160,D2324,0.09,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,4/12/2011,2011,,,,,,,2,1,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,4/12/2011,2011,11/4/2010,4/13/2011,160,D2325,0.05,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,4/12/2011,2011,,,,,,,0,1,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,4/12/2011,2011,11/4/2010,4/14/2011,161,D2322,0.09,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,4/12/2011,2011,,,,,,,1,1,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Coupon,4/13/2011,2011,11/15/2010,4/11/2011,147,G5881,0.03,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Bacteria,4/13/2011,2011,,,,,,,0,0,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Biocide Residual,4/13/2011,2011,,,,,,,,,2750
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,4/13/2011,2011,11/12/2010,4/14/2011,153,D2339,0.1,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,4/13/2011,2011,,,,,,,2,2,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,4/13/2011,2011,4/13/2011,10/10/2011,180,,0.02,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,4/13/2011,2011,,,,,,,0,2,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,4/13/2011,2011,,,,,,,,,4500
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/13/2011,2011,4/13/2011,10/11/2011,181,,0.08,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/13/2011,2011,,,,,,,0,1,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/13/2011,2011,,,,,,,,,4550
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,4/13/2011,2011,4/13/2011,10/11/2011,181,,0.33,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,4/13/2011,2011,,,,,,,0,1,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Biocide Residual,4/13/2011,2011,,,,,,,,,4550
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,4/13/2011,2011,4/13/2011,10/10/2011,180,,0.06,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,4/13/2011,2011,,,,,,,0,1,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Biocide Residual,4/13/2011,2011,,,,,,,,,4500
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,4/13/2011,2011,4/13/2011,10/10/2011,180,,0.03,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,4/13/2011,2011,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Biocide Residual,4/13/2011,2011,,,,,,,,,4550
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,4/13/2011,2011,11/4/2010,4/13/2011,160,D2327,0.06,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,4/13/2011,2011,,,,,,,1,2,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,4/13/2011,2011,4/13/2011,10/10/2011,180,,0.03,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,4/13/2011,2011,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Biocide Residual,4/13/2011,2011,,,,,,,,,4500
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,4/13/2011,2011,11/4/2010,4/13/2011,160,D2328,0.07,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,4/13/2011,2011,,,,,,,3,2,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,4/13/2011,2011,11/4/2010,4/14/2011,161,D2323,0.39,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,4/13/2011,2011,,,,,,,2,1,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Corrosion Coupon,4/13/2011,2011,11/15/2010,4/12/2011,148,G5880,0.02,,,,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Bacteria,4/13/2011,2011,,,,,,,3,2,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Biocide Residual,4/13/2011,2011,,,,,,,,,195
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/14/2011,2011,4/14/2011,10/11/2011,180,,0.02,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/14/2011,2011,,,,,,,0,1,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/14/2011,2011,,,,,,,,,4500
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,4/14/2011,2011,4/14/2011,10/11/2011,180,,1,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,4/14/2011,2011,,,,,,,2,2,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Biocide Residual,4/14/2011,2011,,,,,,,,,20
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/14/2011,2011,4/14/2011,10/11/2011,180,,0.43,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/14/2011,2011,,,,,,,0,1,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/14/2011,2011,,,,,,,,,4500
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/14/2011,2011,4/14/2011,10/11/2011,180,,0.05,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/14/2011,2011,,,,,,,0,1,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/14/2011,2011,,,,,,,,,4550
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,4/14/2011,2011,4/14/2011,10/11/2011,180,,0.08,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,4/14/2011,2011,,,,,,,0,1,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Biocide Residual,4/14/2011,2011,,,,,,,,,4500
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,4/14/2011,2011,4/14/2011,10/11/2011,180,,0.49,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,4/14/2011,2011,,,,,,,0,1,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Biocide Residual,4/14/2011,2011,,,,,,,,,4850
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,5/5/2011,2011,5/5/2011,12/28/2011,237,G6164,0.02,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,5/5/2011,2011,,,,,,5,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,5/5/2011,2011,,,,,,,0,0,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,5/5/2011,2011,,,,,,,,,28000
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Coupon,5/5/2011,2011,5/5/2011,12/28/2011,237,G6165,0.02,,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Residual,5/5/2011,2011,,,,,,6500,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Bacteria,5/5/2011,2011,,,,,,,0,1,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Biocide Residual,5/5/2011,2011,,,,,,,,,0
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,5/5/2011,2011,5/5/2011,12/28/2011,237,G6169,0.11,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Bacteria,5/5/2011,2011,,,,,,,0,0,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Coupon,5/5/2011,2011,5/5/2011,12/28/2011,237,G6168,0.17,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Residual,5/5/2011,2011,,,,,,10,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Bacteria,5/5/2011,2011,,,,,,,1,3,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Biocide Residual,5/5/2011,2011,,,,,,,,,50
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Coupon,5/5/2011,2011,5/5/2011,12/28/2011,237,G6166,0.01,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,5/5/2011,2011,5/5/2011,12/28/2011,237,G6167,0.58,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,5/5/2011,2011,,,,,,28,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,5/5/2011,2011,,,,,,,0,0,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,5/5/2011,2011,,,,,,,,,8000
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,5/5/2011,2011,5/5/2011,12/28/2011,237,G6170,0.44,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,5/5/2011,2011,,,,,,5,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,5/5/2011,2011,,,,,,,2,3,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,5/5/2011,2011,,,,,,,,,5
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,5/31/2011,2011,5/31/2011,12/30/2011,213,G6080,0.01,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,10/10/2011,2011,10/10/2011,4/18/2012,191,D2513,0.03,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,10/10/2011,2011,,,,,,,0,1,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,10/10/2011,2011,,,,,,,,,4500
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,10/10/2011,2011,10/10/2011,4/18/2012,191,D2512,0.06,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,10/10/2011,2011,,,,,,,0,1,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Biocide Residual,10/10/2011,2011,,,,,,,,,4550
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,10/10/2011,2011,10/10/2011,4/18/2012,191,D2514,0.03,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,10/10/2011,2011,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Biocide Residual,10/10/2011,2011,,,,,,,,,4500
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,10/10/2011,2011,10/10/2011,4/18/2012,191,D2515,0.02,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,10/10/2011,2011,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Biocide Residual,10/10/2011,2011,,,,,,,,,4450
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/11/2011,2011,10/11/2011,4/19/2012,191,D2509,0.03,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/11/2011,2011,,,,,,,0,1,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/11/2011,2011,,,,,,,,,4550
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,10/11/2011,2011,10/11/2011,4/19/2012,191,D2503,0.19,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,10/11/2011,2011,,,,,,,3,6,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Biocide Residual,10/11/2011,2011,,,,,,,,,4200
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/11/2011,2011,10/11/2011,4/19/2012,191,D2507,0.1,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/11/2011,2011,,,,,,,0,2,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/11/2011,2011,,,,,,,,,8000
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/11/2011,2011,10/11/2011,4/18/2012,190,D2510,0.04,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/11/2011,2011,,,,,,,0,1,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/11/2011,2011,,,,,,,,,4400
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/11/2011,2011,10/11/2011,4/19/2012,191,D2506,0.1,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/11/2011,2011,,,,,,,0,1,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/11/2011,2011,,,,,,,,,4450
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,10/11/2011,2011,10/11/2011,4/18/2012,190,D2511,0.13,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,10/11/2011,2011,,,,,,,0,1,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Biocide Residual,10/11/2011,2011,,,,,,,,,4750
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,10/11/2011,2011,10/11/2011,4/19/2012,191,D2505,0.05,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,10/11/2011,2011,,,,,,,0,1,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Biocide Residual,10/11/2011,2011,,,,,,,,,8000
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,10/11/2011,2011,10/11/2011,4/19/2012,191,D2508,0.36,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,10/11/2011,2011,,,,,,,0,1,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Biocide Residual,10/11/2011,2011,,,,,,,,,7500
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,12/28/2011,2011,12/28/2011,5/24/2012,148,G6481,0.05,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,12/28/2011,2011,,,,,,31,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,12/28/2011,2011,,,,,,,0,0,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,12/28/2011,2011,,,,,,,,,3500
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Coupon,12/28/2011,2011,12/28/2011,5/24/2012,148,G6483,0.02,,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Residual,12/28/2011,2011,,,,,,14,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Bacteria,12/28/2011,2011,,,,,,,0,0,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Biocide Residual,12/28/2011,2011,,,,,,,,,3100
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,12/28/2011,2011,12/28/2011,5/24/2012,148,G6455,0.44,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Coupon,12/28/2011,2011,12/28/2011,5/24/2012,148,G6482,0.01,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Residual,12/28/2011,2011,,,,,,15,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Bacteria,12/28/2011,2011,,,,,,,2,3,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Biocide Residual,12/28/2011,2011,,,,,,,,,45
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Coupon,12/28/2011,2011,12/28/2011,5/24/2012,148,G6510,0.009,,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Residual,12/28/2011,2011,,,,,,11,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Bacteria,12/28/2011,2011,,,,,,,0,0,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Biocide Residual,12/28/2011,2011,,,,,,,,,4500
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,12/28/2011,2011,12/28/2011,5/24/2012,148,G6480,0.03,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,12/28/2011,2011,,,,,,190,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,12/28/2011,2011,,,,,,,0,0,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,12/28/2011,2011,,,,,,,,,4150
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,12/28/2011,2011,12/28/2011,5/24/2012,148,G6484,0.03,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,12/28/2011,2011,,,,,,37,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,12/28/2011,2011,,,,,,,2,3,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,12/28/2011,2011,,,,,,,,,20
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,12/30/2011,2011,12/30/2011,6/29/2012,182,G6488,0.01,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/13/2012,2012,4/13/2012,10/23/2012,193,D2656,0.84,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,4/18/2012,2012,4/18/2012,10/22/2012,187,D2659,0.03,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,4/18/2012,2012,,,,,,,0,1,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,4/18/2012,2012,,,,,,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,4/18/2012,2012,4/18/2012,10/23/2012,188,D2657,0.02,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,4/18/2012,2012,,,,,,,0,1,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Biocide Residual,4/18/2012,2012,,,,,,,,,2550
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,4/18/2012,2012,4/18/2012,10/22/2012,187,D2658,0.04,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,4/18/2012,2012,,,,,,,0,1,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Biocide Residual,4/18/2012,2012,,,,,,,,,445
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,4/18/2012,2012,4/18/2012,10/22/2012,187,D2652,0.08,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,4/18/2012,2012,,,,,,,1,0,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Biocide Residual,4/18/2012,2012,,,,,,,,,445
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,4/18/2012,2012,4/18/2012,10/22/2012,187,D2653,0.04,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,4/18/2012,2012,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Biocide Residual,4/18/2012,2012,,,,,,,,,445
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/19/2012,2012,4/19/2012,10/23/2012,187,D2651,0.44,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/19/2012,2012,,,,,,,3,6,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/19/2012,2012,,,,,,,,,4
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,4/19/2012,2012,4/19/2012,10/25/2012,189,D2382,1.47,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,4/19/2012,2012,,,,,,,1,3,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Biocide Residual,4/19/2012,2012,,,,,,,,,440
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/19/2012,2012,4/19/2012,10/23/2012,187,D2654,0.88,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/19/2012,2012,,,,,,,6,4,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/19/2012,2012,,,,,,,,,5
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/19/2012,2012,4/19/2012,10/23/2012,187,D2650,0.08,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/19/2012,2012,,,,,,,1,1,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/19/2012,2012,,,,,,,,,445
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,4/19/2012,2012,4/19/2012,10/23/2012,187,D2383,1.99,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,4/19/2012,2012,,,,,,,0,1,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Biocide Residual,4/19/2012,2012,,,,,,,,,450
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,4/19/2012,2012,4/19/2012,10/23/2012,187,D2640,0.11,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,4/19/2012,2012,,,,,,,1,1,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Biocide Residual,4/19/2012,2012,,,,,,,,,470
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Residual,5/4/2012,2012,5/24/2012,11/8/2012,168,,,14,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Biocide Residual,5/4/2012,2012,,,,,,,,,3100
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Residual,5/4/2012,2012,,,,,,15,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Biocide Residual,5/4/2012,2012,,,,,,,,,45
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,5/24/2012,2012,5/24/2012,11/8/2012,168,G6440,0.27,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,5/24/2012,2012,,,,,,31,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,5/24/2012,2012,,,,,,,0,0,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,5/24/2012,2012,,,,,,,,,3500
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Coupon,5/24/2012,2012,5/24/2012,11/8/2012,168,G6441,0.05,,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Bacteria,5/24/2012,2012,,,,,,,0,0,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,5/24/2012,2012,5/4/2012,11/8/2012,188,G6447,0.21,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Coupon,5/24/2012,2012,5/24/2012,11/8/2012,168,G6442,0.47,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Bacteria,5/24/2012,2012,,,,,,,2,3,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,5/24/2012,2012,5/24/2012,11/8/2012,168,G6448,0.01,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,5/24/2012,2012,,,,,,190,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,5/24/2012,2012,,,,,,,0,0,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,5/24/2012,2012,,,,,,,,,4150
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,5/24/2012,2012,5/24/2012,11/8/2012,168,G6439,0.16,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,5/24/2012,2012,,,,,,37,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,5/24/2012,2012,,,,,,,2,3,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,5/24/2012,2012,,,,,,,,,20
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,5/24/2012,2012,6/29/2012,11/13/2012,137,G6653,0.007,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,11/8/2012,2012,11/8/2012,4/16/2013,159,G6777,0.02,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,11/8/2012,2012,,,,,,,2,2,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,11/8/2012,2012,11/8/2012,4/16/2013,159,,,4175,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,11/8/2012,2012,,,,,,,,,230
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Coupon,11/8/2012,2012,11/8/2012,4/16/2013,159,G6773,0.05,,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Bacteria,11/8/2012,2012,,,,,,,0,0,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Residual,11/8/2012,2012,11/8/2012,4/16/2013,159,,,5325,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Biocide Residual,11/8/2012,2012,,,,,,,,,455
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,11/8/2012,2012,11/8/2012,4/16/2013,159,G6772,0.11,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Bacteria,11/8/2012,2012,,,,,,,0,0,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Residual,11/8/2012,2012,11/8/2012,4/16/2013,159,,,2675,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Biocide Residual,11/8/2012,2012,,,,,,,,,55
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Coupon,11/8/2012,2012,11/8/2012,4/16/2013,159,G6780,0.03,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Bacteria,11/8/2012,2012,,,,,,,0,0,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Residual,11/8/2012,2012,11/8/2012,4/16/2013,159,,,2475,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Biocide Residual,11/8/2012,2012,,,,,,,,,500
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Coupon,11/8/2012,2012,11/8/2012,4/16/2013,159,G6779,0.01,,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Bacteria,11/8/2012,2012,,,,,,,1,0,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Residual,11/8/2012,2012,11/8/2012,4/16/2013,159,,,23.2,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Biocide Residual,11/8/2012,2012,,,,,,,,,190
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Coupon,11/8/2012,2012,5/24/2012,11/8/2012,168,G6443,0.004,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,11/8/2012,2012,11/8/2012,4/16/2013,159,G6781,0.03,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,11/8/2012,2012,,,,,,,0,4,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,11/8/2012,2012,11/8/2012,4/16/2013,159,,,29.4,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,11/8/2012,2012,,,,,,,,,45
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,11/8/2012,2012,11/8/2012,4/16/2013,159,G6778,0.02,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,11/8/2012,2012,,,,,,,1,1,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,11/8/2012,2012,11/8/2012,4/16/2013,159,,,5.3,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,11/8/2012,2012,,,,,,,,,5
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Coupon,4/22/2013,2013,12/18/2012,4/22/2013,125,D2890,0.21,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Bacteria,4/22/2013,2013,,,,,,,3,3,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Biocide Residual,4/22/2013,2013,,,,,,,,,10
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Corrosion Coupon,4/22/2013,2013,10/24/2012,4/22/2013,180,D2888,0.002,,,,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Bacteria,4/22/2013,2013,,,,,,,0,0,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Biocide Residual,4/22/2013,2013,,,,,,,,,445
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Corrosion Coupon,4/22/2013,2013,10/24/2012,4/22/2013,180,D2889,0.009,,,,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Bacteria,4/22/2013,2013,,,,,,,3,3,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Biocide Residual,4/22/2013,2013,,,,,,,,,445
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,5/14/2013,2013,11/13/2012,5/14/2013,182,G6775,0.01,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/14/2013,2013,4/17/2013,10/15/2013,181,D2945,2.19,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/14/2013,2013,,,,,,,5,4,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/14/2013,2013,,,,,,,,,15
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,10/14/2013,2013,4/15/2013,10/15/2013,183,D2953,0.03,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,10/14/2013,2013,,,,,,,0,0,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Biocide Residual,10/14/2013,2013,,,,,,,,,450
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/14/2013,2013,4/17/2013,10/15/2013,181,D2944,0.11,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/14/2013,2013,,,,,,,2,2,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/14/2013,2013,,,,,,,,,5
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,10/14/2013,2013,4/18/2013,10/14/2013,179,D2820,0.03,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,10/14/2013,2013,,,,,,,0,0,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,10/14/2013,2013,,,,,,,,,435
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/14/2013,2013,4/17/2013,10/15/2013,181,D2946,0.03,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/14/2013,2013,,,,,,,1,1,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/14/2013,2013,,,,,,,,,465
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/14/2013,2013,4/17/2013,10/15/2013,181,D2942,0.02,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/14/2013,2013,,,,,,,1,1,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/14/2013,2013,,,,,,,,,5
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,10/14/2013,2013,4/18/2013,10/14/2013,179,D2947,0.21,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,10/14/2013,2013,,,,,,,0,2,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Biocide Residual,10/14/2013,2013,,,,,,,,,440
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,10/14/2013,2013,4/18/2013,10/14/2013,179,D2940,0.78,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,10/14/2013,2013,,,,,,,0,1,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Biocide Residual,10/14/2013,2013,,,,,,,,,435
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,10/14/2013,2013,4/17/2013,10/15/2013,181,D2941,0.03,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,10/14/2013,2013,,,,,,,0,1,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Biocide Residual,10/14/2013,2013,,,,,,,,,4665
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,10/14/2013,2013,4/18/2013,10/14/2013,179,D2823,0.06,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,10/14/2013,2013,,,,,,,5,1,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Biocide Residual,10/14/2013,2013,,,,,,,,,435
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,10/14/2013,2013,4/18/2013,10/14/2013,179,D2822,0.03,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,10/14/2013,2013,,,,,,,0,2,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Biocide Residual,10/14/2013,2013,,,,,,,,,430
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,10/14/2013,2013,4/17/2013,10/15/2013,181,D2943,0.22,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,10/14/2013,2013,,,,,,,0,2,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Biocide Residual,10/14/2013,2013,,,,,,,,,4650
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Corrosion Coupon,10/14/2013,2013,4/18/2013,10/14/2013,179,D2821,0.66,,,,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Bacteria,10/14/2013,2013,,,,,,,0,0,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Biocide Residual,10/14/2013,2013,,,,,,,,,10
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,10/15/2013,2013,4/15/2013,10/15/2013,183,D2948,0.35,,,,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Bacteria,10/15/2013,2013,,,,,,,3,5,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,10/15/2013,2013,,,,,,,,,365
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,10/15/2013,2013,4/15/2013,10/15/2013,183,D2949,0.24,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Coupon,10/22/2013,2013,4/22/2013,10/22/2013,183,D2891,0.99,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Bacteria,10/22/2013,2013,,,,,,,5,4,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Biocide Residual,10/22/2013,2013,,,,,,,,,10
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,10/22/2013,2013,4/16/2013,10/22/2013,189,G6972,0.17,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,10/22/2013,2013,,,,,,,3,3,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,10/22/2013,2013,,,,,,,,,5
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,10/22/2013,2013,,,,,,7.3,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,10/22/2013,2013,,,,,,7.3,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,10/22/2013,2013,,,,,,,,,5
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Coupon,10/22/2013,2013,4/16/2013,10/22/2013,189,G6971,1.63,,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Bacteria,10/22/2013,2013,,,,,,,2,1,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Biocide Residual,10/22/2013,2013,,,,,,,,,40
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Residual,10/22/2013,2013,,,,,,6.8,,,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Corrosion Coupon,10/22/2013,2013,4/22/2013,10/22/2013,183,D2893,0.25,,,,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Bacteria,10/22/2013,2013,,,,,,,4,5,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Biocide Residual,10/22/2013,2013,,,,,,,,,30
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,10/22/2013,2013,3/14/2013,10/22/2013,222,G6946,0.25,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,10/22/2013,2013,4/16/2013,10/22/2013,189,G6974,0.3,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Bacteria,10/22/2013,2013,,,,,,,0,0,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Corrosion Coupon,10/22/2013,2013,4/22/2013,10/22/2013,183,D2892,0.04,,,,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Bacteria,10/22/2013,2013,,,,,,,1,0,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Biocide Residual,10/22/2013,2013,,,,,,,,,430
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Coupon,10/22/2013,2013,4/16/2013,10/22/2013,189,G6990,0.03,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Bacteria,10/22/2013,2013,,,,,,,1,0,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Biocide Residual,10/22/2013,2013,,,,,,,,,430
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Residual,10/22/2013,2013,,,,,,45.5,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Coupon,10/22/2013,2013,4/16/2013,10/22/2013,189,G6989,0.01,,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Residual,10/22/2013,2013,,,,,,45.5,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Biocide Residual,10/22/2013,2013,,,,,,,,,430
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,10/22/2013,2013,4/16/2013,10/22/2013,189,G6975,0.15,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,10/22/2013,2013,,,,,,,1,2,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,10/22/2013,2013,,,,,,,,,375
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,10/22/2013,2013,,,,,,73,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,10/22/2013,2013,,,,,,73,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,10/22/2013,2013,,,,,,,,,375
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,10/22/2013,2013,11/8/2012,4/16/2013,159,G6778,0.02,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,10/22/2013,2013,,,,,,,2,1,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,10/22/2013,2013,,,,,,,,,5
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,10/22/2013,2013,,,,,,6.1,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,10/22/2013,2013,,,,,,6.1,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,10/22/2013,2013,,,,,,,,,5
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Corrosion Coupon,10/22/2013,2013,4/22/2013,10/22/2013,183,D2893,0.44,,,,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Bacteria,10/22/2013,2013,,,,,,,5,5,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Biocide Residual,10/22/2013,2013,,,,,,,,,355
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,2/13/2014,2014,10/22/2013,2/13/2014,114,G7349,0.05,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,4/21/2014,2014,10/14/2013,4/21/2014,189,D2832,0.02,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,4/21/2014,2014,,,,,,,0,2,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,4/21/2014,2014,,,,,,,,,17400
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/21/2014,2014,10/15/2013,4/21/2014,188,D2834,0.15,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/21/2014,2014,,,,,,,0,1,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/21/2014,2014,,,,,,,,,450
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,4/21/2014,2014,10/15/2013,4/21/2014,188,D2836,0.07,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,4/21/2014,2014,,,,,,,0,1,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Biocide Residual,4/21/2014,2014,,,,,,,,,13700
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,4/21/2014,2014,10/14/2013,4/21/2014,189,D2833,0.02,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,4/21/2014,2014,,,,,,,0,1,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Biocide Residual,4/21/2014,2014,,,,,,,,,13600
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Biocide Residual,4/21/2014,2014,,,,,,,,,16500
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,4/21/2014,2014,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,4/21/2014,2014,10/14/2013,4/21/2014,189,D2829,0.01,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,4/21/2014,2014,10/14/2013,4/21/2014,189,D2830,0.01,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,4/21/2014,2014,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Biocide Residual,4/21/2014,2014,,,,,,,,,12800
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Corrosion Coupon,4/21/2014,2014,10/14/2013,4/21/2014,189,D2831,0.16,,,,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Bacteria,4/21/2014,2014,,,,,,,3,3,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Biocide Residual,4/21/2014,2014,,,,,,,,,#N/A
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/22/2014,2014,10/15/2013,4/22/2014,189,D2835,0.12,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/22/2014,2014,,,,,,,5,4,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/22/2014,2014,,,,,,,,,15000
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/22/2014,2014,10/15/2013,4/22/2014,189,D2540,0.04,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/22/2014,2014,,,,,,,3,3,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/22/2014,2014,,,,,,,,,4390
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/22/2014,2014,10/15/2013,4/22/2014,189,D2542,0.03,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/22/2014,2014,,,,,,,5,6,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/22/2014,2014,,,,,,,,,25700
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,4/22/2014,2014,10/15/2013,4/22/2014,189,D2544,0.16,,,,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Bacteria,4/22/2014,2014,,,,,,,5,5,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,4/22/2014,2014,,,,,,,,,12
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,4/22/2014,2014,10/15/2013,4/22/2014,189,D2543,0.01,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,4/22/2014,2014,,,,,,,1,1,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Biocide Residual,4/22/2014,2014,,,,,,,,,14500
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,4/22/2014,2014,10/15/2013,4/22/2014,189,D2545,0.12,,,,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Bacteria,4/22/2014,2014,,,,,,,1,1,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,4/22/2014,2014,,,,,,,,,6900
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,4/22/2014,2014,10/15/2013,4/22/2014,189,D2541,0.11,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,4/22/2014,2014,,,,,,,0,2,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Biocide Residual,4/22/2014,2014,,,,,,,,,#N/A
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Coupon,4/23/2014,2014,10/22/2013,4/23/2014,183,D3236,0.05,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Bacteria,4/23/2014,2014,,,,,,,2,3,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Biocide Residual,4/23/2014,2014,,,,,,,,,10
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,4/23/2014,2014,10/16/2014,4/23/2014,-176,D2548,0.02,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,4/23/2014,2014,,,,,,,1,1,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Biocide Residual,4/23/2014,2014,,,,,,,,,12000
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Biocide Residual,4/23/2014,2014,,,,,,,,,30
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Bacteria,4/23/2014,2014,,,,,,,4,2,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Corrosion Coupon,4/23/2014,2014,10/22/2013,4/23/2014,183,D3238,0.02,,,,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Biocide Residual,4/23/2014,2014,,,,,,,,,430
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Bacteria,4/23/2014,2014,,,,,,,0,0,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Corrosion Coupon,4/23/2014,2014,10/22/2013,4/23/2014,183,D3239,0.01,,,,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Corrosion Coupon,4/23/2014,2014,10/22/2013,4/23/2014,183,D3237,0.06,,,,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Bacteria,4/23/2014,2014,,,,,,,5,4,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Biocide Residual,4/23/2014,2014,,,,,,,,,355
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,5/22/2014,2014,,,,,,0,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,5/22/2014,2014,,,,,,,,,5
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,5/22/2014,2014,,,,,,,3,3,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,5/22/2014,2014,10/22/2013,5/22/2014,212,G7214,0.59,,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Coupon,5/22/2014,2014,10/22/2013,5/22/2014,212,G7345,0.01,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,5/22/2014,2014,10/22/2013,5/22/2014,212,G7347,0.03,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Bacteria,5/22/2014,2014,,,,,,,0,0,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Bacteria,5/22/2014,2014,,,,,,,0,0,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Coupon,5/22/2014,2014,10/22/2013,5/22/2014,212,G7344,0.02,,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Residual,5/22/2014,2014,,,,,,15,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Biocide Residual,5/22/2014,2014,,,,,,,,,1000
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,5/22/2014,2014,,,,,,19,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,5/22/2014,2014,,,,,,,,,440
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,5/22/2014,2014,10/22/2013,5/22/2014,212,G7348,0.03,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,5/22/2014,2014,,,,,,,0,0,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,5/22/2014,2014,,,,,,32,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,5/22/2014,2014,,,,,,,,,87
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,5/22/2014,2014,,,,,,,4,3,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,5/22/2014,2014,10/22/2013,5/22/2014,212,G7346,0.03,,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,6/3/2014,2014,11/25/2013,6/3/2014,190,G7112,0.05,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Coupon,10/14/2014,2014,4/23/2014,10/14/2014,174,D3160,0.58,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Bacteria,10/14/2014,2014,,,,,,,5,6,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Biocide Residual,10/14/2014,2014,,,,,,,,,5
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,10/14/2014,2014,4/23/2014,10/14/2014,174,D3163,0.01,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,10/14/2014,2014,,,,,,,4,5,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,10/14/2014,2014,,,,,,,,,5
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Corrosion Coupon,10/14/2014,2014,4/23/2014,10/14/2014,174,D3161,0.41,,,,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Bacteria,10/14/2014,2014,,,,,,,3,6,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Biocide Residual,10/14/2014,2014,,,,,,,,,5
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Corrosion Coupon,10/14/2014,2014,4/23/2014,10/14/2014,174,D3162,0.01,,,,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Bacteria,10/14/2014,2014,,,,,,,2,5,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Biocide Residual,10/14/2014,2014,,,,,,,,,5
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,10/22/2014,2014,5/22/2014,10/22/2014,153,G7396,1.09619281,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,10/22/2014,2014,,,,,,,,,5
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,10/22/2014,2014,,,,,,,0,0,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Bacteria,10/22/2014,2014,,,,,,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,10/22/2014,2014,5/22/2014,10/22/2014,153,G7393,0.061266667,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Bacteria,10/22/2014,2014,,,,,,,0,0,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Corrosion Coupon,10/22/2014,2014,5/22/2014,10/22/2014,153,G7397,0.101510458,,,,
+"See Sta. from Billings 6"" -WaterTrap",BILLINGS TO SEE,Bacteria,10/22/2014,2014,,,,,,,0,0,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Coupon,10/22/2014,2014,5/22/2014,10/22/2014,153,G7398,0.050454902,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,10/22/2014,2014,5/22/2014,10/22/2014,153,G7394,0.310537908,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,10/22/2014,2014,,,,,,96.35,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,10/22/2014,2014,,,,,,,,,1600
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,10/22/2014,2014,,,,,,,1,0,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,10/22/2014,2014,5/22/2014,10/22/2014,153,G7395,0.059464706,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,10/22/2014,2014,,,,,,257.2,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,10/22/2014,2014,,,,,,,,,2450
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,10/22/2014,2014,,,,,,,1,1,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Bacteria,10/22/2014,2014,,,,,,,0,0,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,10/22/2014,2014,6/3/2014,12/9/2014,189,,0.02,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,10/27/2014,2014,4/21/2014,10/27/2014,189,D2552,0.07,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,10/27/2014,2014,,,,,,,1,0,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,10/27/2014,2014,,,,,,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,10/27/2014,2014,4/21/2014,10/27/2014,189,D2599,0.14,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,10/27/2014,2014,,,,,,,1,0,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Biocide Residual,10/27/2014,2014,,,,,,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,10/27/2014,2014,4/21/2014,10/27/2014,189,D2550,0.21,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,10/27/2014,2014,,,,,,,2,0,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Biocide Residual,10/27/2014,2014,,,,,,,,,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Corrosion Coupon,10/27/2014,2014,4/21/2014,10/27/2014,189,D2551,6.3,,,,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Bacteria,10/27/2014,2014,,,,,,,3,2,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Biocide Residual,10/27/2014,2014,,,,,,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D2556,0.45,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/28/2014,2014,,,,,,,6,3,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/28/2014,2014,,,,,,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D3084,0.01,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,10/28/2014,2014,,,,,,,2,0,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Biocide Residual,10/28/2014,2014,,,,,,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D2557,16.32,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/28/2014,2014,,,,,,,4,4,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/28/2014,2014,,,,,,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D2555,0.23,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/28/2014,2014,,,,,,,1,0,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/28/2014,2014,,,,,,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D3080,0.2,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/28/2014,2014,,,,,,,4,3,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/28/2014,2014,,,,,,,,,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D3082,0.46,,,,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Bacteria,10/28/2014,2014,,,,,,,3,0,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,10/28/2014,2014,,,,,,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D2554,0.24,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,10/28/2014,2014,,,,,,,2,0,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Biocide Residual,10/28/2014,2014,,,,,,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D2553,0.51,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,10/28/2014,2014,,,,,,,2,0,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Biocide Residual,10/28/2014,2014,,,,,,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D3081,0.05,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,10/28/2014,2014,,,,,,,2,0,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Biocide Residual,10/28/2014,2014,,,,,,,,,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D3083,0.28,,,,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Bacteria,10/28/2014,2014,,,,,,,5,4,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,10/28/2014,2014,,,,,,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,10/28/2014,2014,4/22/2014,10/28/2014,189,D2558,0.28,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,10/28/2014,2014,,,,,,,1,1,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Biocide Residual,10/28/2014,2014,,,,,,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,4/22/2015,2015,10/27/2014,4/22/2015,177,D3088,0.01,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,4/22/2015,2015,,,,,,,0,1,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,4/22/2015,2015,,,,,,,,,2120
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/22/2015,2015,10/28/2014,4/22/2015,176,D3093,0.04,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/22/2015,2015,,,,,,,0,1,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/22/2015,2015,,,,,,,,,2088
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,4/22/2015,2015,10/28/2014,4/22/2015,176,D3094,0.21,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,4/22/2015,2015,,,,,,,0,1,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Biocide Residual,4/22/2015,2015,,,,,,,,,2100
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,4/22/2015,2015,10/28/2014,4/22/2015,176,D3092,0.01,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,4/22/2015,2015,,,,,,,1,1,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Biocide Residual,4/22/2015,2015,,,,,,,,,2120
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,4/22/2015,2015,10/27/2014,4/22/2015,177,D3089,0.01,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,4/22/2015,2015,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Biocide Residual,4/22/2015,2015,,,,,,,,,1930
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,4/22/2015,2015,10/27/2014,4/22/2015,177,D3090,0,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,4/22/2015,2015,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Biocide Residual,4/22/2015,2015,,,,,,,,,2030
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Corrosion Coupon,4/22/2015,2015,1/27/2015,4/22/2015,85,D2933,0.1,,,,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Bacteria,4/22/2015,2015,,,,,,,1,2,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Biocide Residual,4/22/2015,2015,,,,,,,,,1883
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/23/2015,2015,10/28/2014,4/23/2015,177,D3095,0.04,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/23/2015,2015,,,,,,,6,6,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/23/2015,2015,,,,,,,,,37.8
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/23/2015,2015,1/23/2015,4/23/2015,90,D2932,0.42,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/23/2015,2015,,,,,,,5,5,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/23/2015,2015,,,,,,,,,30.5
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,4/23/2015,2015,10/28/2014,4/23/2015,177,D3099,0.21,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,4/23/2015,2015,,,,,,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Biocide Residual,4/23/2015,2015,,,,,,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,4/24/2015,2015,10/29/2014,4/24/2015,177,D2937,0,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,4/24/2015,2015,,,,,,,0,1,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Biocide Residual,4/24/2015,2015,,,,,,,,,2051
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,4/24/2015,2015,10/28/2014,4/24/2015,178,D3097,0.03,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,4/24/2015,2015,,,,,,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,4/24/2015,2015,,,,,,,,,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,4/24/2015,2015,10/28/2014,4/24/2015,178,D2938,0.16,,,,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Bacteria,4/24/2015,2015,,,,,,,0,2,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,4/24/2015,2015,,,,,,,,,2180
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,4/24/2015,2015,10/28/2014,4/24/2015,178,D3098,0.03,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,4/24/2015,2015,,,,,,,0,2,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Biocide Residual,4/24/2015,2015,,,,,,,,,2139
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,4/24/2015,2015,10/28/2014,4/24/2015,178,D2920,0.01,,,,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Bacteria,4/24/2015,2015,,,,,,,,,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,4/24/2015,2015,,,,,,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Coupon,4/30/2015,2015,10/14/2014,4/30/2015,198,D3166,8.3,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Bacteria,4/30/2015,2015,,,,,,,3,4,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Biocide Residual,4/30/2015,2015,,,,,,,,,26.2
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Corrosion Coupon,4/30/2015,2015,10/14/2014,4/30/2015,198,D3164,0.01,,,,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Bacteria,4/30/2015,2015,,,,,,,4,3,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Biocide Residual,4/30/2015,2015,,,,,,,,,1870
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Corrosion Coupon,4/30/2015,2015,10/14/2014,4/30/2015,198,D3167,0.05,,,,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Bacteria,4/30/2015,2015,,,,,,,3,3,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Biocide Residual,4/30/2015,2015,,,,,,,,,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Corrosion Coupon,4/30/2015,2015,10/14/2014,4/30/2015,198,D3165,0.01,,,,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Bacteria,4/30/2015,2015,,,,,,,4,4,
+Whelan Sta. to Isabel Jct. receiver -WaterTrap,WHELAN TO ISABEL TRUNK,Biocide Residual,4/30/2015,2015,,,,,,,,,37.7
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,5/12/2015,2015,10/22/2014,5/12/2015,202,G7414,0.02,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,5/12/2015,2015,,,,,,,6,2,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,5/12/2015,2015,,,,,,27.4,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,5/12/2015,2015,,,,,,,,,2065
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Bacteria,5/12/2015,2015,,,,,,,6,1,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Residual,5/12/2015,2015,,,,,,30.4,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Coupon,5/12/2015,2015,10/22/2014,5/12/2015,202,,0.71,,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Biocide Residual,5/12/2015,2015,,,,,,,,,15.6
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,5/12/2015,2015,5/22/2014,3/23/2015,305,G7190,0.02,,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Coupon,5/12/2015,2015,10/22/2014,5/12/2015,202,G7417,0.71,,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Bacteria,5/12/2015,2015,,,,,,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,5/12/2015,2015,10/22/2014,5/12/2015,202,G7420,0.23,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,5/12/2015,2015,,,,,,15.6,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,5/12/2015,2015,,,,,,,,,375
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,5/12/2015,2015,10/22/2014,5/12/2015,202,G7414,0.07,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,5/12/2015,2015,,,,,,,0,0,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,5/12/2015,2015,,,,,,8,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,5/12/2015,2015,,,,,,,,,425
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,5/12/2015,2015,10/22/2014,5/12/2015,202,G7415,0.03,,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Bacteria,5/12/2015,2015,,,,,,,3,3,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,9/14/2015,2015,5/12/2015,9/14/2015,125,G7789,2.98,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,9/14/2015,2015,,,,,,,4,3,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,9/14/2015,2015,,,,,,21,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,9/14/2015,2015,,,,,,,,,7.2
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Bacteria,9/14/2015,2015,,,,,,,6,1,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Coupon,9/14/2015,2015,5/12/2015,9/14/2015,125,G7782,0.71,,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Corrosion Residual,9/14/2015,2015,,,,,,23.8,,,
+"Blackwell Tie-In from Kansas 4"" -WaterTrap",KANSAS - OKLAHOMA,Biocide Residual,9/14/2015,2015,,,,,,,,,5.4
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Coupon,9/14/2015,2015,5/12/2015,9/14/2015,125,G7782,0.71,,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Bacteria,9/14/2015,2015,,,,,,,6,1,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Corrosion Residual,9/14/2015,2015,,,,,,23.8,,,
+Blackwell to Sheets Jct. -WaterTrap,BLACKWELL JCT TO SHEETS,Biocide Residual,9/14/2015,2015,,,,,,,,,5.4
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,9/14/2015,2015,3/23/2015,9/14/2015,175,G7352,0.06,,,,
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Bacteria,9/14/2015,2015,,,,,,,3,5,
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Corrosion Residual,9/14/2015,2015,,,,,,74.5,,,
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Biocide Residual,9/14/2015,2015,,,,,,,,,94.5
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Bacteria,9/14/2015,2015,,,,,,,3,5,
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,9/14/2015,2015,3/23/2015,9/14/2015,175,G7352,0.06,,,,
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Corrosion Residual,9/14/2015,2015,,,,,,74.5,,,
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Biocide Residual,9/14/2015,2015,,,,,,,,,94.5
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,9/14/2015,2015,3/23/2015,9/14/2015,175,G7351,0,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Bacteria,9/14/2015,2015,,,,,,,0,0,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Residual,9/14/2015,2015,,,,,,36.2,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Biocide Residual,9/14/2015,2015,,,,,,,,,72.5
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Bacteria,9/14/2015,2015,,,,,,,0,0,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,9/14/2015,2015,3/23/2015,9/14/2015,175,G7351,0,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Residual,9/14/2015,2015,,,,,,36.2,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Biocide Residual,9/14/2015,2015,,,,,,,,,72.5
+Cushing WC 2 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,9/14/2015,2015,3/23/2015,9/14/2015,175,G7830,0,,,,
+Cushing WC 2 -WaterTrap,CUSHING TERMINAL,Bacteria,9/14/2015,2015,,,,,,,2,5,
+Cushing WC 2 -WaterTrap,CUSHING TERMINAL,Corrosion Residual,9/14/2015,2015,,,,,,111,,,
+Cushing WC 2 -WaterTrap,CUSHING TERMINAL,Biocide Residual,9/14/2015,2015,,,,,,,,,117
+Cushing WC 2 -WaterTrap,CUSHING TERMINAL,Bacteria,9/14/2015,2015,,,,,,,2,5,
+Cushing WC 2 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,9/14/2015,2015,3/23/2015,9/14/2015,175,G7830,0,,,,
+Cushing WC 2 -WaterTrap,CUSHING TERMINAL,Corrosion Residual,9/14/2015,2015,,,,,,111,,,
+Cushing WC 2 -WaterTrap,CUSHING TERMINAL,Biocide Residual,9/14/2015,2015,,,,,,,,,117
+"S Cushing West 20""",CUSHING TERMINAL,Corrosion Coupon,9/14/2015,2015,6/30/2015,9/14/2015,76,G7800,0.01,,,,
+"S Cushing West 20""",CUSHING TERMINAL,Bacteria,9/14/2015,2015,,,,,,,2,4,
+"S Cushing West 20""",CUSHING TERMINAL,Corrosion Residual,9/14/2015,2015,,,,,,116,,,
+"S Cushing West 20""",CUSHING TERMINAL,Biocide Residual,9/14/2015,2015,,,,,,,,,81.5
+"S Cushing West 20""",CUSHING TERMINAL,Bacteria,9/14/2015,2015,,,,,,,2,4,
+"S Cushing West 20""",CUSHING TERMINAL,Corrosion Coupon,9/14/2015,2015,6/30/2015,9/14/2015,76,G7800,0.01,,,,
+"S Cushing West 20""",CUSHING TERMINAL,Corrosion Residual,9/14/2015,2015,,,,,,116,,,
+"S Cushing West 20""",CUSHING TERMINAL,Biocide Residual,9/14/2015,2015,,,,,,,,,81.5
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Bacteria,9/14/2015,2015,,,,,,,4,3,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Coupon,9/14/2015,2015,5/12/2015,9/14/2015,125,G7789,2.98,,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Corrosion Residual,9/14/2015,2015,,,,,,21,,,
+See Sta. from Sheet Jct. -WaterTrap,SHEETS TO SEE,Biocide Residual,9/14/2015,2015,,,,,,,,,7.22
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,9/14/2015,2015,5/12/2015,9/14/2015,125,G7781,0.17,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,9/14/2015,2015,,,,,,,2,3,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,9/14/2015,2015,,,,,,23,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,9/14/2015,2015,,,,,,,,,15.6
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Bacteria,9/14/2015,2015,,,,,,,2,3,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,9/14/2015,2015,5/12/2015,9/14/2015,125,G7781,0.17,,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Corrosion Residual,9/14/2015,2015,,,,,,23,,,
+See to Cushing -WaterTrap,SEE TO SOUTH CIMARRON JCT,Biocide Residual,9/14/2015,2015,,,,,,,,,15.6
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,9/14/2015,2015,5/12/2015,9/14/2015,125,G7790,0.31,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,9/14/2015,2015,,,,,,,5,6,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,9/14/2015,2015,,,,,,22.6,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,9/14/2015,2015,,,,,,,,,5
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Bacteria,9/14/2015,2015,,,,,,,5,6,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,9/14/2015,2015,5/12/2015,9/14/2015,125,G7790,0.31,,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,9/14/2015,2015,,,,,,22.6,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,9/14/2015,2015,,,,,,,,,5
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/21/2015,2015,7/30/2015,10/21/2015,83,D2913,8.57,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/21/2015,2015,,,,,,,2,3,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/21/2015,2015,,,,,,,,,5
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/21/2015,2015,,,,,,,2,3,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/21/2015,2015,7/30/2015,10/21/2015,83,D2913,8.57,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/21/2015,2015,,,,,,,,,5
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/21/2015,2015,7/30/2015,10/21/2015,83,D2914,1.51,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/21/2015,2015,,,,,,,5,5,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/21/2015,2015,,,,,,,,,6
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/21/2015,2015,,,,,,,5,5,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/21/2015,2015,7/30/2015,10/21/2015,83,D2914,1.51,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/21/2015,2015,,,,,,,,,6.02
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2928,0.09,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,10/21/2015,2015,,,,,,,0,2,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,10/21/2015,2015,,,,,,,,,472
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,10/21/2015,2015,,,,,,,0,2,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2928,0.09,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,10/21/2015,2015,,,,,,,,,472
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2925,0.64,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/21/2015,2015,,,,,,,5,5,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/21/2015,2015,,,,,,,,,9
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/21/2015,2015,,,,,,,5,5,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2925,0.64,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/21/2015,2015,,,,,,,,,8.97
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/21/2015,2015,4/24/2015,10/21/2015,180,D2921,0.06,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/21/2015,2015,,,,,,,1,2,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/21/2015,2015,,,,,,,,,1215
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/21/2015,2015,,,,,,,1,2,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/21/2015,2015,4/24/2015,10/21/2015,180,D2921,0.06,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/21/2015,2015,,,,,,,,,1215
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2926,0.28,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,10/21/2015,2015,,,,,,,0,1,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Biocide Residual,10/21/2015,2015,,,,,,,,,452
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,10/21/2015,2015,,,,,,,0,1,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2926,0.28,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Biocide Residual,10/21/2015,2015,,,,,,,,,452
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2927,0.72,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,10/21/2015,2015,,,,,,,2,4,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Biocide Residual,10/21/2015,2015,,,,,,,,,5.62
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,10/21/2015,2015,,,,,,,2,4,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2927,0.72,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Biocide Residual,10/21/2015,2015,,,,,,,,,5.62
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,10/21/2015,2015,4/24/2015,10/21/2015,180,D2586,0.1,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,10/21/2015,2015,,,,,,,1,1,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Biocide Residual,10/21/2015,2015,,,,,,,,,470
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,10/21/2015,2015,,,,,,,1,1,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,10/21/2015,2015,4/24/2015,10/21/2015,180,D2586,0.1,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Biocide Residual,10/21/2015,2015,,,,,,,,,470
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2931,0.13,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,10/21/2015,2015,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Biocide Residual,10/21/2015,2015,,,,,,,,,466
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,10/21/2015,2015,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2931,0.13,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Biocide Residual,10/21/2015,2015,,,,,,,,,466
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2930,0.2,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,10/21/2015,2015,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Biocide Residual,10/21/2015,2015,,,,,,,,,478
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,10/21/2015,2015,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2930,0.2,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Biocide Residual,10/21/2015,2015,,,,,,,,,478
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,10/21/2015,2015,4/23/2015,10/21/2015,181,D2922,0.22,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,10/21/2015,2015,,,,,,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Biocide Residual,10/21/2015,2015,,,,,,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,10/21/2015,2015,,,,,,,N/A,N/A,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,10/21/2015,2015,4/23/2015,10/21/2015,181,D2922,0.22,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Biocide Residual,10/21/2015,2015,,,,,,,,,N/A
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2929,0.21,,,,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Bacteria,10/21/2015,2015,,,,,,,0,1,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Biocide Residual,10/21/2015,2015,,,,,,,,,472
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Bacteria,10/21/2015,2015,,,,,,,0,1,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Corrosion Coupon,10/21/2015,2015,4/22/2015,10/21/2015,182,D2929,0.21,,,,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Biocide Residual,10/21/2015,2015,,,,,,,,,472
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,10/24/2015,2015,4/24/2015,10/24/2015,183,D2918,0.2,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,10/24/2015,2015,,,,,,,0,1,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Biocide Residual,10/24/2015,2015,,,,,,,,,945
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,10/24/2015,2015,,,,,,,0,1,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,10/24/2015,2015,4/24/2015,10/24/2015,183,D2918,0.2,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Biocide Residual,10/24/2015,2015,,,,,,,,,945
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,10/24/2015,2015,4/24/2015,10/24/2015,183,D2585,0.16,,,,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Bacteria,10/24/2015,2015,,,,,,,0,1,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,10/24/2015,2015,,,,,,,,,472
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Bacteria,10/24/2015,2015,,,,,,,0,1,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,10/24/2015,2015,4/24/2015,10/24/2015,183,D2585,0.16,,,,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,10/24/2015,2015,,,,,,,,,472
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,10/24/2015,2015,4/24/2015,10/24/2015,183,D2919,0.5,,,,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Bacteria,10/24/2015,2015,,,,,,,,,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,10/24/2015,2015,,,,,,,,,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Bacteria,10/24/2015,2015,,,,,,,N/A,N/A,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,10/24/2015,2015,4/24/2015,10/24/2015,183,D2919,0.5,,,,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,10/24/2015,2015,,,,,,,,,N/A
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Coupon,11/15/2015,2015,4/30/2015,11/15/2015,199,D3170,7.5,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Bacteria,11/15/2015,2015,,,,,,,6,3,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Biocide Residual,11/15/2015,2015,,,,,,,,,7
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Bacteria,11/15/2015,2015,,,,,,,6,3,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Biocide Residual,11/15/2015,2015,,,,,,,,,7
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Coupon,11/15/2015,2015,4/30/2015,11/15/2015,199,D3170,7.5,,,,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Corrosion Coupon,11/15/2015,2015,4/30/2015,11/15/2015,199,D3168,2.23,,,,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Bacteria,11/15/2015,2015,,,,,,,5,2,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Biocide Residual,11/15/2015,2015,,,,,,,,,5
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Bacteria,11/15/2015,2015,,,,,,,5,2,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Biocide Residual,11/15/2015,2015,,,,,,,,,5
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Corrosion Coupon,11/15/2015,2015,4/30/2015,11/15/2015,199,D3168,2.23,,,,
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Bacteria,12/3/2015,2015,,,,,,,2,3,
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Corrosion Coupon,12/3/2015,2015,6/29/2015,12/3/2015,157,G7788,0.29,,,,
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Corrosion Residual,12/3/2015,2015,,,,,,11,,,
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Biocide Residual,12/3/2015,2015,,,,,,,,,5
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Corrosion Coupon,12/3/2015,2015,6/29/2015,12/3/2015,157,G7788,0.29,,,,
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Bacteria,12/3/2015,2015,,,,,,,2,3,
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Corrosion Residual,12/3/2015,2015,,,,,,11,,,
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Biocide Residual,12/3/2015,2015,,,,,,,,,5
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,12/21/2015,2015,6/18/2015,12/21/2015,186,G7545,0.02,,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Bacteria,12/21/2015,2015,,,,,,,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Residual,12/21/2015,2015,,,,,,,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Biocide Residual,12/21/2015,2015,,,,,,,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Bacteria,12/21/2015,2015,,,,,,,N/A,N/A,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Coupon,12/21/2015,2015,6/18/2015,12/21/2015,186,G7545,0.02,,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Corrosion Residual,12/21/2015,2015,,,,,,N/A,,,
+Wideawake from Kansas -WaterTrap,FLEMING - WIDE AWAKE,Biocide Residual,12/21/2015,2015,,,,,,,,,N/A
+Alva to Ruby -WaterTrap,ALVA to RUBY,Bacteria,4/1/2016,2016,,,,,,,5,4,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Bacteria,4/1/2016,2016,,,,,,,5,4,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Bacteria,6/22/2016,2016,,,,,,,1,2,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Bacteria,6/22/2016,2016,,,,,,,5,4,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Corrosion Coupon,6/22/2016,2016,4/1/2016,6/22/2016,82,,1.2,,,,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Corrosion Coupon,6/22/2016,2016,4/1/2016,6/22/2016,82,,0.08,,,,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Corrosion Residual,6/22/2016,2016,,,,,,7.6,,,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Corrosion Residual,6/22/2016,2016,,,,,,13.9,,,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Biocide Residual,6/22/2016,2016,,,,,,,,,5
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Biocide Residual,6/22/2016,2016,,,,,,,,,17.6
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Bacteria,6/30/2016,2016,,,,,,,1,2,
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Corrosion Coupon,6/30/2016,2016,12/3/2015,6/30/2016,210,,1.35,,,,
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Corrosion Residual,6/30/2016,2016,,,,,,12.3,,,
+Ruby to Cushing -WaterTrap,RUBY to GAVILON CUSHING,Biocide Residual,6/30/2016,2016,,,,,,,,,5
+Alva to Ruby -WaterTrap,ALVA to RUBY,Bacteria,9/13/2016,2016,,,,,,,1,3,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Bacteria,9/13/2016,2016,,,,,,,1,4,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Corrosion Coupon,9/13/2016,2016,6/22/2016,9/13/2016,83,,0.1,,,,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Corrosion Coupon,9/13/2016,2016,6/22/2016,9/13/2016,83,,0.03,,,,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Corrosion Residual,9/13/2016,2016,,,,,,5,,,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Corrosion Residual,9/13/2016,2016,,,,,,13.6,,,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Biocide Residual,9/13/2016,2016,,,,,,,,,5
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Biocide Residual,9/13/2016,2016,,,,,,,,,5.33
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Corrosion Coupon,10/26/2016,2016,4/26/2016,10/26/2016,183,D2727,0.08,,,,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Corrosion Coupon,10/26/2016,2016,4/26/2016,10/26/2016,183,D2726,0.22,,,,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Corrosion Coupon,10/26/2016,2016,4/26/2016,10/26/2016,183,D2728,0.12,,,,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Corrosion Coupon,10/26/2016,2016,4/26/2016,10/26/2016,183,D2729,0.09,,,,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Corrosion Coupon,10/26/2016,2016,4/26/2016,10/26/2016,183,D2731,0.76,,,,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Corrosion Coupon,10/27/2016,2016,4/26/2016,10/27/2016,184,D2733,0.23,,,,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/27/2016,2016,4/26/2016,10/27/2016,184,D2732,0.29,,,,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/27/2016,2016,4/27/2016,10/27/2016,183,D2734,7.6,,,,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/27/2016,2016,4/27/2016,10/27/2016,183,D2735,0.05,,,,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Corrosion Coupon,10/27/2016,2016,4/27/2016,10/27/2016,183,M0505,0.04,,,,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,10/27/2016,2016,4/27/2016,10/27/2016,183,M0503,0.03,,,,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Corrosion Coupon,10/27/2016,2016,4/27/2016,10/27/2016,183,M0501,0.23,,,,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Corrosion Coupon,10/27/2016,2016,4/27/2016,10/27/2016,183,M0429,5.04,,,,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Corrosion Coupon,10/27/2016,2016,4/27/2016,10/27/2016,183,M0428,0.04,,,,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Corrosion Coupon,10/27/2016,2016,4/27/2016,10/27/2016,183,M4027,0.02,,,,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Bacteria,10/26/2016,2016,,,,,,,0,1,
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Bacteria,10/26/2016,2016,,,,,,,3,2,
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Bacteria,10/26/2016,2016,,,,,,,1,1,
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Bacteria,10/26/2016,2016,,,,,,,0,1,
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Bacteria,10/26/2016,2016,,,,,,,2,2,
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Bacteria,10/27/2016,2016,,,,,,,3,3,
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/27/2016,2016,,,,,,,3,3,
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/27/2016,2016,,,,,,,3,5,
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/27/2016,2016,,,,,,,1,1,
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Bacteria,10/27/2016,2016,,,,,,,0,1,
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Bacteria,10/27/2016,2016,,,,,,,0,1,
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Bacteria,10/27/2016,2016,,,,,,,#N/A,#N/A,
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Bacteria,10/27/2016,2016,,,,,,,3,4,
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Bacteria,10/27/2016,2016,,,,,,,0,2,
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Bacteria,10/27/2016,2016,,,,,,,#N/A,#N/A,
+"Riverside Sta. to Weiland Jct. (1) 4"" receivers -WaterTrap",RIVERSIDE LINE 1,Biocide Residual,10/26/2016,2016,,,,,,,,,1215
+"Riverside Sta. to Weiland Jct. (2) 4"" receivers -WaterTrap",RIVERSIDE LINE 2,Biocide Residual,10/26/2016,2016,,,,,,,,,1220
+"Wieland 6"" -WaterTrap",WEILAND TO HANSTON,Biocide Residual,10/26/2016,2016,,,,,,,,,1255
+"Hanston Station, Launcher to Larned Jct. -WaterTrap",ROZEL TO LARNED,Biocide Residual,10/26/2016,2016,,,,,,,,,1090
+Larned Jct. to Hudson receiver -WaterTrap,LARNED TO HUDSON TRUNK,Biocide Residual,10/26/2016,2016,,,,,,,,,7.71
+Hudson Sta. to Arlington Jct. receiver -WaterTrap,HUDSON TO ARLINGTON TRUNK,Biocide Residual,10/27/2016,2016,,,,,,,,,1065
+Haven Sta. to Arlington Jct. receiver  -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/27/2016,2016,,,,,,,,,65.5
+Arlington Jct. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/27/2016,2016,,,,,,,,,5
+Burrton Sta. to Haven Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/27/2016,2016,,,,,,,,,1165
+So. Hutch to Haven Sta. receiver -WaterTrap,SOUTH HUTCH,Biocide Residual,10/27/2016,2016,,,,,,,,,454
+Haven Sta. to Schulte Jct. -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,10/27/2016,2016,,,,,,,,,1225
+Schulte Jct. to Wichita Station -WaterTrap,KANSAS - OKLAHOMA,Biocide Residual,10/27/2016,2016,,,,,,,,,#N/A
+Haven Sta. to Burrton Sta. receiver -WaterTrap,ARLINGTON-BURRTON,Biocide Residual,10/27/2016,2016,,,,,,,,,5
+Lyons Sta. to Burrton Sta. receiver -WaterTrap,LYONS TO BURRTON TRUNK,Biocide Residual,10/27/2016,2016,,,,,,,,,1120
+Burrton Sta. to El Dorado Sta. receiver -WaterTrap,BURRTON-EL DORADO,Biocide Residual,10/27/2016,2016,,,,,,,,,#N/A
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Coupon,11/16/2016,2016,7/27/2016,11/16/2016,112,K2422,0.07,,,,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Corrosion Coupon,11/16/2016,2016,7/27/2016,11/16/2016,112,G7779,0,,,,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Corrosion Coupon,11/16/2016,2016,7/27/2016,11/16/2016,112,G7778,0.16,,,,
+Isabel Sta. to Pixley Jct.,ISABEL TO FLEMING TRUNK,Corrosion Coupon,11/16/2016,2016,7/27/2016,11/16/2016,112,G7780,0.02,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Bacteria,11/16/2016,2016,,,,,,,#N/A,#N/A,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Bacteria,11/16/2016,2016,,,,,,,0,0,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Bacteria,11/16/2016,2016,,,,,,,1,1,
+Isabel Sta. to Pixley Jct.,ISABEL TO FLEMING TRUNK,Bacteria,11/16/2016,2016,,,,,,,0,0,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Biocide Residual,11/16/2016,2016,,,,,,,,,#N/A
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Biocide Residual,11/16/2016,2016,,,,,,,,,1125
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Biocide Residual,11/16/2016,2016,,,,,,,,,300
+Isabel Sta. to Pixley Jct.,ISABEL TO FLEMING TRUNK,Biocide Residual,11/16/2016,2016,,,,,,,,,1190
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Coupon,5/26/2017,2017,11/16/2016,5/26/2017,191,,0.09,,,,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Corrosion Coupon,5/26/2017,2017,11/16/2016,5/26/2017,191,,0.06,,,,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Corrosion Coupon,5/26/2017,2017,11/16/2016,5/26/2017,191,,0.03,,,,
+Isabel Sta. to Pixley Jct.,ISABEL TO FLEMING TRUNK,Corrosion Coupon,5/26/2017,2017,11/16/2016,5/26/2017,191,,0.05,,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Bacteria,5/26/2017,2017,,,,,,,0,0,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Bacteria,5/26/2017,2017,,,,,,,0,1,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Bacteria,5/26/2017,2017,,,,,,,2,1,
+Isabel Sta. to Pixley Jct.,ISABEL TO FLEMING TRUNK,Bacteria,5/26/2017,2017,,,,,,,0,0,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Corrosion Residual,5/26/2017,2017,,,,,,12.8,,,
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Corrosion Residual,5/26/2017,2017,,,,,,16.6,,,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Corrosion Residual,5/26/2017,2017,,,,,,17.5,,,
+Isabel Sta. to Pixley Jct.,ISABEL TO FLEMING TRUNK,Corrosion Residual,5/26/2017,2017,,,,,,24.7,,,
+"Arlington Jct. to Cunningham Sta., receiver -WaterTrap",ARLINGTON-CUNNINGHAM,Biocide Residual,5/26/2017,2017,,,,,,,,,1120
+Cunningham to Isabel Jct. receiver -WaterTrap,CUNNINGHAM TO ISABEL TRUNK,Biocide Residual,5/26/2017,2017,,,,,,,,,1105
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Biocide Residual,5/26/2017,2017,,,,,,,,,1010
+Isabel Sta. to Pixley Jct.,ISABEL TO FLEMING TRUNK,Biocide Residual,5/26/2017,2017,,,,,,,,,1550
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Coupon,10/10/2016,2016,4/12/2016,10/10/2016,181,G7649,0.506211602,,,,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Corrosion Coupon,1/12/2017,2017,9/13/2016,1/12/2017,121,U5496,0.097958003,,,,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Corrosion Coupon,1/12/2017,2017,9/13/2016,1/12/2017,121,U5497,0.020695353,,,,
+"Isabel 6"" @ Alva",ISABEL TO FLEMING TRUNK,Corrosion Coupon,4/11/2017,2017,1/26/2017,4/11/2017,75,U5528,0.18214119,,,,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Corrosion Coupon,4/11/2017,2017,1/12/2017,4/11/2017,89,U5541,0.105082904,,,,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Corrosion Coupon,4/11/2017,2017,1/12/2017,4/11/2017,89,U5542,0.044245433,,,,
+"S Cushing West 20""",CUSHING TERMINAL,Corrosion Coupon,4/25/2017,2017,10/10/2016,4/25/2017,197,G7992,0.023791371,,,,
+"Glass Mountain 18"" at Cushing",CUSHING TERMINAL,Corrosion Coupon,4/25/2017,2017,10/10/2016,4/25/2017,197,G7993,0.014461421,,,,
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Corrosion Coupon,4/25/2017,2017,10/10/2016,4/25/2017,197,G7991,0.063443655,,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,4/25/2017,2017,10/10/2016,4/25/2017,197,G7999,0.043384264,,,,
+Cushing WC 2 -WaterTrap,CUSHING TERMINAL,Corrosion Coupon,4/25/2017,2017,10/10/2016,4/25/2017,197,G8000,0.014927919,,,,
+"Glass Mountain 18"" at Cushing",CUSHING TERMINAL,Corrosion Residual,11/10/2016,2016,,,,,,21.2,,,
+Isabel Jct. to Fleming Sta. -WaterTrap,ISABEL TO FLEMING TRUNK,Corrosion Residual,11/17/2016,2016,,,,,,18.2,,,
+Isabel Sta. to Pixley Jct.,ISABEL TO FLEMING TRUNK,Corrosion Residual,11/17/2016,2016,,,,,,16.9,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Corrosion Residual,10/10/2016,2016,,,,,,45.4,,,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Corrosion Residual,1/12/2017,2017,,,,,,5,,,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Corrosion Residual,1/12/2017,2017,,,,,,46,,,
+"Isabel 6"" @ Alva",ISABEL TO FLEMING TRUNK,Corrosion Residual,1/26/2017,2017,,,,,,33,,,
+"Isabel 6"" @ Alva",ISABEL TO FLEMING TRUNK,Corrosion Residual,4/11/2017,2017,,,,,,16,,,
+Alva to Ruby -WaterTrap,ALVA to RUBY,Corrosion Residual,4/11/2017,2017,,,,,,11,,,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Corrosion Residual,4/11/2017,2017,,,,,,0,,,
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Corrosion Residual,4/25/2017,2017,,,,,,158,,,
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Corrosion Residual,4/25/2017,2017,,,,,,144,,,
+"S Cushing West 20""",CUSHING TERMINAL,Corrosion Residual,4/25/2017,2017,,,,,,158,,,
+W Ponca to Fiske -WaterTrap,WEST PONCA TO FISKE,Biocide Residual,10/10/2016,2016,,,,,,,,,790
+Alva to Ruby -WaterTrap,ALVA to RUBY,Biocide Residual,1/12/2017,2017,,,,,,,,,5
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Biocide Residual,1/12/2017,2017,,,,,,,,,16.1
+"Isabel 6"" @ Alva",ISABEL TO FLEMING TRUNK,Biocide Residual,1/26/2017,2017,,,,,,,,,1175
+"Isabel 6"" @ Alva",ISABEL TO FLEMING TRUNK,Biocide Residual,4/11/2017,2017,,,,,,,,,1190
+Alva to Ruby -WaterTrap,ALVA to RUBY,Biocide Residual,4/11/2017,2017,,,,,,,,,1080
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Biocide Residual,4/11/2017,2017,,,,,,,,,0
+"Cushing Terminal from West 20"" -WaterTrap",SEE TO SOUTH CIMARRON JCT,Biocide Residual,4/25/2017,2017,,,,,,,,,1778.2
+Cushing WC 1 -WaterTrap,CUSHING TERMINAL,Biocide Residual,4/25/2017,2017,,,,,,,,,10695
+"S Cushing West 20""",CUSHING TERMINAL,Biocide Residual,4/25/2017,2017,,,,,,,,,102.5
+"Glass Mountain 18"" at Cushing",CUSHING TERMINAL,Biocide Residual,4/25/2017,2017,,,,,,,,,1078
+Alva to Ruby -WaterTrap,ALVA to RUBY,Bacteria,4/11/2017,2017,,,,,,,2,0,
+Arnett to Ruby -WaterTrap,ARNETT to RUBY,Bacteria,4/11/2017,2017,,,,,,,5,3,
+"Isabel 6"" @ Alva",ISABEL TO FLEMING TRUNK,Bacteria,4/11/2017,2017,,,,,,,0,0,
